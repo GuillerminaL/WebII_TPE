@@ -3,7 +3,7 @@
 Authors: Juliana Gómez Pardo | Guillermina Lauge
 
 ### Description
-The project constains a web page consuming an PHP API REST
+The project constains a web page consuming a PHP API REST
 
 
 
